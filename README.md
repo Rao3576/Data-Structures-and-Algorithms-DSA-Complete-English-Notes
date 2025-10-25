@@ -326,6 +326,8 @@ queue.popleft()  # Removes 10
 ### ✅ Author
 
 **Created by:** *Rao Kashif*
+
 **Language:** Python + Markdown
+
 **Purpose:** Easy DSA understanding for beginners with diagrams and examples.
 
